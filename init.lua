@@ -967,6 +967,8 @@ require("lazy").setup({
 				"c",
 				"diff",
 				"html",
+				"css",
+				"javascript",
 				"lua",
 				"luadoc",
 				"markdown",
